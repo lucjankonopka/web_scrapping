@@ -157,9 +157,9 @@ main_list
 len(main_list)
 
 # Creating new dataset for restaurants:
-table_view = {'Name': [], 'Restaurant Type': [], 'Address': [], 'Zip Code': [], 'Phone': []}
+table_view = {'Name': [], 'Restaurant_Type': [], 'Address': [], 'Zip_Code': [], 'Phone': []}
 
 dataset_restaurants = pd.DataFrame.from_records(main_list)
 
 # Exporting dataset as .csv file:
-dataset_restaurants.to_csv('dataset_berlin_restaurants.csv')
+dataset_restaurants.to_csv('dataset_berlin_restaurants.csv', index=False)
