@@ -3,7 +3,7 @@
 Technology used: *python, beautiful soup, pandas*
 
 
-I just found a good data source of restaurants in Berlin. I decided to use Beautiful Soup to try to get all important data and create a dataset with all restaurants in Berlin.
+I just found a good data source of restaurants in Berlin. I decided to use Beautiful Soup to try to extract data and create a dataset with all restaurants in Berlin.
 
 ## Python file
 
