@@ -15,4 +15,8 @@ The documentation of the process is included in the file [*web_scrapping_restaur
 
 Output file in form dataset as .csv file [*dataset_berlin_restaurants.csv*](https://github.com/lucjankonopka/web_scrapping/blob/main/dataset_berlin_restaurants.csv).
 
-The new created dataset can be used to further analysis. 
+The new created dataset was used to further analysis. 
+
+## Visualisation
+
+The gattered data was used to create an [*interactive map of restaurants in Berlin*](https://public.tableau.com/app/profile/lucjan.konopka/viz/RestaurantsinBerlin/RestaurantsinBerlin) in Tableau Public.
