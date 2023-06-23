@@ -9,7 +9,7 @@ I just found a good data source of restaurants in Berlin. I decided to use Beaut
 
 The whole web scrapping process was performed using Beautiful Soup library [*collecting_data.py*](https://github.com/lucjankonopka/web_scrapping/blob/main/collecting_data.py).
 
-The documentation of the process is included in the file [*web_scrapping_restaurants_in_berlin.ipynb*](https://github.com/lucjankonopka/web_scrapping/blob/main/web_scrapping_restaurants_in_berlin.ipynb).
+The process is also included in the jupyter notebook file [*web_scrapping_restaurants_in_berlin.ipynb*](https://github.com/lucjankonopka/web_scrapping/blob/main/web_scrapping_restaurants_in_berlin.ipynb).
 
 ## Output
 
