@@ -1,7 +1,8 @@
+from typing import Dict, List
+
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
-from typing import Dict, List
 
 
 # Functions for getting detail data
