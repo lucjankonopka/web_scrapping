@@ -1,6 +1,7 @@
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
+from typing import Dict, List
 
 
 # Functions for getting detail data
@@ -159,7 +160,7 @@ if __name__ == "__main__":
     len(all_restaurants_list)
 
     # Creating the dictionary schema
-    result = {
+    result: Dict[str, List[str]] = {
         "Name": [],
         "Restaurant_Type": [],
         "Address": [],
