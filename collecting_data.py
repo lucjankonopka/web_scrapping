@@ -159,7 +159,7 @@ if __name__ == "__main__":
     len(all_restaurants_list)
 
     # Creating the dictionary schema
-    result = {
+    result: Dict[str, Any] = {
         "Name": [],
         "Restaurant_Type": [],
         "Address": [],
